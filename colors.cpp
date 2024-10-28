@@ -20,11 +20,6 @@ int main()
 	case 8: cout << "Рожевий"; break;
 	case 9: cout << "Коричневий"; break;
 	case 10: cout << "Фіолетовий"; break;
-	case 11: cout << "Темно-синій"; break;
-	case 12: cout << "Золотистий"; break;
-	case 13: cout << "Сірий"; break;
-	case 14: cout << "Голубий"; break;
-	case 15: cout << "Гірчичний"; break;
 	default: cout << "Не існує"; break;
 	}
 }
