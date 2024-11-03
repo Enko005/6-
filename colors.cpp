@@ -19,7 +19,7 @@ int main()
 	case 7: cout << "авокадо"; break;
 	case 8: cout << "гуава"; break;
 	case 9: cout << "бергамот"; break;
-	case 10: cout << "ківи"; break;
+	case 10: cout << "ківі"; break;
 	default: cout << "Не існує"; break;
 	}
 }
