@@ -6,20 +6,20 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	int x;
-	cout << "Введіть номер відеогри x: ";
+	cout << "Введіть номер космічного тіла x: ";
 	cin >> x;
 	switch (x)
 	{
-	case 1: cout << "Cyberpunk 2077"; break;
-	case 2: cout << "League of Legends"; break;
-	case 3: cout << "Valorant"; break;
-	case 4: cout << "Minecraft"; break;
-	case 5: cout << "Call of Duty: Warzone"; break;
-	case 6: cout << "Among Us"; break;
-	case 7: cout << "Dota 2"; break;
-	case 8: cout << "Brawl Stars"; break;
-	case 9: cout << "Undertale"; break;
-	case 10: cout << "Tetris (Nintendo)"; break;
+	case 1: cout << "Меркурій"; break;
+	case 2: cout << "Земля"; break;
+	case 3: cout << "Венера"; break;
+	case 4: cout << "Марс"; break;
+	case 5: cout << "Юпітер"; break;
+	case 6: cout << "Сатурн"; break;
+	case 7: cout << "Уран"; break;
+	case 8: cout << "Нептун"; break;
+	case 9: cout << "Місяць"; break;
+	case 10: cout << "Плутон"; break;
 	default: cout << "Не існує"; break;
 	}
 }
