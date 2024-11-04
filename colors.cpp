@@ -6,7 +6,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	int x;
-	cout << "Введіть номер космічного тіла x: ";
+	cout << "Введіть номер космічнoго тіла x: ";
 	cin >> x;
 	switch (x)
 	{
