@@ -20,6 +20,7 @@ int main()
 	case 8: cout << "Сатурн"; break;
 	case 9: cout << "Уран"; break;
 	case 10: cout << "Меркурій"; break;
+	case 11; cout << "Сонце"; break;
 	default: cout << "Не існує"; break;
 	}
 }
